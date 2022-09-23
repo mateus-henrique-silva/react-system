@@ -1,0 +1,12 @@
+.box{
+    width:80vw;
+    height:10vh;
+    background:red;
+    bor
+}
+
+.box-prime{
+    display:flex;
+    justify-content:center;
+    margin:30px;
+}
